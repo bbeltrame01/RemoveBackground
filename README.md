@@ -50,7 +50,7 @@ Este projeto utiliza a biblioteca [rembg](https://github.com/danielgatis/rembg) 
 
 | Antes | Depois |
 |-------|--------|
-| ![Antes](./images/input.jpg) | ![Depois](/.images/output.png) |
+| ![Antes](./images/input.jpg) | ![Depois](./images/output.png) |
 
 ## 📝 Observações
 
